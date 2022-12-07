@@ -1,4 +1,4 @@
-This is a project about an employee manager app where the technologies used are Hibernate, MySQL, and Spring Boot. The class we are working with is employee. CRUD operations are implemented.
+This is a project about an employee manager app where the technologies used are Hibernate, MySQL and Spring Boot. CRUD operations are implemented.
 We can:
 1. Add an employee
 2. Find all employees
